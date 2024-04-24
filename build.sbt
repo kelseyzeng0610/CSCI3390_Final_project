@@ -10,5 +10,7 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-core" % "3.0.1",
   "org.apache.spark" %% "spark-sql" % "3.0.1",
   "org.apache.spark" %% "spark-graphx" % "3.0.1"
+  "org.jgrapht" % "jgrapht-core" % "1.5.1"
+
 )
 
